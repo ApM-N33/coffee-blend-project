@@ -1,0 +1,638 @@
+:root {
+  --white-1st: #fff;
+  --white-2nd: #ffffff99;
+  --white-3rd: #ffffffb3;
+  --white-rgba: rgba(255, 255, 255, 0.5);
+  --black-1st: #000000;
+  --black-2nd: #151111;
+  --black-3rd: #0d0d0d;
+  --black-rgba: rgba(0, 0, 0, 0.5);
+  --brown-1st: #c49b63;
+  --yellow-1st: #f8b500;
+  --gray-1st: #808080;
+  --gray-2nd: #bfbfbf;
+  --gray-rgba: rgba(255, 255, 255, 0.1);
+}
+
+/////////////////////////////////////
+
+@media (max-width: 1492px) {
+  .gellery-modal {
+    align-items: start;
+  }
+}
+
+@media (max-width: 1200px) {
+  // //// HERO-CONTACT //////
+
+  .hero-contact {
+    margin-top: -55px !important;
+    .contact-wrap {
+      height: auto !important;
+      padding: 30px !important;
+    }
+  }
+
+  ////////////////////////////
+
+  // ///// OUR-SRORY /////////
+
+  .our-story {
+    .our_story-title {
+      line-height: unset !important;
+      margin-bottom: 30px !important;
+    }
+  }
+
+  ////////////////////////////////
+  // ///// OUR-MENU /////////
+
+  .our-menu {
+    .our_menu-title {
+      line-height: unset !important;
+      margin-bottom: 30px !important;
+    }
+  }
+
+  ////////////////////////////////
+  // ///// OUR-PRODUCTS /////////
+
+  .our-products {
+    .our_prod-title {
+      line-height: unset !important;
+      margin-bottom: 0px !important;
+    }
+
+    .our_prod-desc {
+      margin: 30px 0 !important;
+    }
+  }
+
+  // /////////////////////////////
+
+  // /////// CUSTOMERS SEC //////////
+
+  .customers {
+    .customers-title {
+      line-height: unset !important;
+      margin-bottom: 0px !important;
+    }
+
+    .customers-desc {
+      margin: 30px 0 !important;
+    }
+  }
+
+  // ////////////////////////////
+
+  // // RECENT-BLOG /////
+
+  .recent-blog {
+    .recent_blog-title {
+      line-height: unset !important;
+      margin-bottom: 0px !important;
+    }
+
+    .recent_blog-desc {
+      margin: 30px 0 !important;
+    }
+  }
+
+  // /////////////////////////
+}
+
+@media (max-width: 992px) {
+  .mainContainer {
+    max-width: 744px;
+  }
+
+  // /// HEADER MEDIA ////
+
+  .header {
+    position: static !important;
+    background-color: var(--black-3rd);
+  }
+
+  .header.position-absolute.fixed .nav-link {
+    padding: 14px 0 !important;
+  }
+
+  // ///////////////////////////////
+
+  // ////// HERO-CONTACT //////
+
+  .hero-contact {
+    .contact-wrap {
+      width: 100% !important;
+    }
+
+    .book-table {
+      width: 100% !important;
+    }
+  }
+
+  // //////////////////////////
+
+  // ///// OUR-MENU //////////
+
+  .our-menu {
+    .second-img,
+    .fourth-img {
+      margin-top: 0px !important;
+    }
+  }
+
+  /// .counter-sector {
+  .counter-sector {
+    .parallax-bg {
+      padding: 100px 0;
+    }
+  }
+
+  //////////coffee-selers///////////
+
+  .coffee-selers {
+    .coffee_selers-title {
+      line-height: 1.4em !important;
+      margin: 10px 0 !important;
+    }
+
+    .coffee_selers-desc {
+      margin: 0 0 24px 0 !important;
+      font-size: 17px !important;
+      color: var(--gray-2nd);
+    }
+  }
+
+  // ////////////////////////////
+
+  .gellery-modal {
+    .prev-btn {
+      width: 45px;
+      height: 45px;
+      font-size: 40px;
+      left: 8px;
+    }
+
+    .next-btn {
+      width: 45px;
+      height: 45px;
+      font-size: 40px;
+      right: 8px;
+    }
+  }
+
+  // //////////////////////////////
+
+  // /////// CUSTOMERS SEC //////////
+
+  .customers {
+    .container-fluid {
+      padding-top: 100px !important;
+    }
+    .chef_items-col {
+      width: 100% !important;
+    }
+
+    .cheff-card {
+      width: 100%;
+    }
+  }
+
+  // /////////////////////////////
+
+  //  CART PRODUSCTS ////////
+
+  .cart-products {
+    .cart-header {
+      display: none !important;
+    }
+
+    .cart-container {
+      width: 100% !important;
+      margin-bottom: 30px !important;
+    }
+
+    .cart_totals-list-wrap {
+      width: 100% !important;
+    }
+
+    .cart_body-wrap {
+      display: grid !important;
+      grid-template-columns: 1fr 1fr 1fr;
+      column-gap: 10px;
+      margin-bottom: 25px;
+
+      .cart-col {
+        width: 100%;
+      }
+
+      .cart-col:not(.second-col) {
+        padding: 5px !important;
+      }
+
+      .first-col {
+        grid-column: 4/6;
+        grid-row: 1;
+        justify-content: flex-end !important;
+        align-items: start !important;
+      }
+
+      .second-col {
+        grid-column: 1/2;
+        grid-row: span 2;
+        padding: 0 !important;
+      }
+
+      .third-col {
+        grid-column: 2/4;
+        grid-row: 1;
+        align-items: flex-start !important;
+      }
+
+      .fourth-col {
+        grid-column: 2/4;
+        grid-row: 2;
+        justify-content: flex-start !important;
+      }
+
+      .fifth-col {
+        grid-column: 4/6;
+        grid-row: 2;
+      }
+
+      .sixth-col {
+        display: none !important;
+      }
+    }
+
+    .prod-title,
+    .prod-desc {
+      text-align: left !important;
+    }
+
+    .price-text {
+      font-size: 17px !important;
+    }
+
+    .prod-img {
+      height: 100% !important;
+      width: 100% !important;
+    }
+  }
+
+  // //////////////////////////////////
+
+  // //// SINGLE-PRODUCTS ///////////
+
+  .single-products {
+    .product_data-col {
+      padding-left: 12px !important;
+      padding-right: 12px !important;
+    }
+  }
+
+  // ///////////////////////////////////
+}
+
+@media (max-width: 768px) {
+  .mainContainer {
+    max-width: 564px;
+  }
+
+  // ////////////////////////////////
+
+  // ///// OUR-SRORY /////////
+
+  .our-story {
+    .left_img-col {
+      min-height: unset !important;
+      height: 300px !important;
+    }
+
+    .title-label {
+      font-size: 45px !important;
+    }
+
+    .our_story-title {
+      font-size: 28px !important;
+    }
+
+    .title-col {
+      padding: 0 !important;
+    }
+
+    .title-block {
+      margin-left: 0px !important;
+      padding: 30px 15px !important;
+    }
+  }
+
+  // ///// OUR-MENU /////////
+
+  .our-menu {
+    .title-label {
+      font-size: 45px !important;
+    }
+
+    .our_menu-title {
+      font-size: 28px !important;
+    }
+  }
+
+  // ///////////////////////////
+
+  //////////coffee-selers///////////
+
+  .coffee-selers {
+    .title-label {
+      font-size: 45px !important;
+    }
+
+    .coffee_selers-title {
+      font-size: 28px !important;
+    }
+  }
+
+  // ////////////////////////////
+
+  // / Gallery-Section /////
+
+  .gallery-section {
+    .gallery-card {
+      width: 100% !important;
+      height: 300px;
+    }
+  }
+
+  // /////////////////////////
+
+  .gellery-modal {
+    .prev-btn,
+    .next-btn {
+      display: none;
+    }
+  }
+
+  // ////////////////////////////
+
+  // ///// OUR-PRODUCTS /////////
+
+  .our-products {
+    padding-bottom: 90px !important;
+    .title-label {
+      font-size: 45px !important;
+    }
+
+    .our_prod-title {
+      font-size: 28px !important;
+    }
+
+    .prod-btn {
+      width: 100%;
+      text-align: left;
+    }
+  }
+
+  // ////////////////////////////
+
+  // /////// CUSTOMERS SEC //////////
+
+  .customers {
+    .title-label {
+      font-size: 45px !important;
+    }
+
+    .customers-title {
+      font-size: 28px !important;
+    }
+  }
+
+  // ////////////////////////////
+
+  // // RECENT-BLOG /////
+
+  .recent-blog {
+    padding-top: 105px !important;
+    .recent_blog-title {
+      font-size: 28px !important;
+    }
+  }
+
+  // /////////////////////////
+
+  // /// Booking-section ////
+
+  .booking {
+    .iframe-col {
+      min-height: 300px;
+    }
+
+    .book-table.booking-table {
+      padding: 30px 12px 0 12px !important;
+    }
+  }
+
+  // //////////////////////////////
+
+  // //////// FOOTER /////////////
+
+  .footer {
+    padding-top: 105px !important;
+    .footer_bottom-text {
+      margin-top: 70px !important;
+    }
+  }
+
+  // /////////////////////////////
+
+  // //// SINGLE-PRODUCTS ///////////
+
+  .single-products {
+    .product_img-col {
+      height: 350px !important;
+    }
+  }
+
+  // ///////////////////////////////////
+
+  //// BLOG-DETAILS ////
+
+  .blog-details {
+    .card--img {
+      height: 320px !important;
+    }
+
+    .comment_card-3 {
+      padding-left: 20px !important;
+    }
+
+    .comment_card-4 {
+      padding-left: 40px !important;
+    }
+
+    .comment_card-5 {
+      padding-left: 60px !important;
+    }
+  }
+
+  // /////////////////////////////
+}
+
+@media (max-width: 576px) {
+  // /////////// HERO //////////////////
+
+  .hero {
+    .title-label {
+      margin-bottom: 25px;
+      font-size: 35px !important;
+    }
+    .hero-desc {
+      margin: 0 0 24px 0 !important;
+      font-size: 17px !important;
+      color: var(--gray-2nd);
+    }
+    .hero-title {
+      line-height: 1.4em !important;
+      margin-bottom: 0 !important;
+    }
+    .hero-btn:nth-child(1) {
+      margin: 0 7px 7px 0 !important;
+    }
+  }
+
+  // ///////////////////////////
+
+  // ////// HERO-CONTACT //////
+
+  .hero-contact {
+    .contact_info-wrap {
+      width: 100% !important;
+    }
+  }
+
+  /////////////////////////////
+  .gellery-modal {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+  // ////////////////////////////
+
+  // Menu Page -> Category //
+  .menu-category {
+    .card-title span {
+      padding-right: 0px !important;
+    }
+
+    .card_price-text {
+      padding: 5px 10px !important;
+    }
+  }
+
+  //  CART PRODUSCTS ////////
+
+  .cart-products {
+    .cart_body-wrap {
+      grid-template-columns: 100px 1fr 1fr;
+      column-gap: 0px !important;
+
+      .second-col {
+        align-items: center !important;
+      }
+
+      .third-col {
+        grid-column: 2/5;
+      }
+
+      .prod-title,
+      .prod-desc,
+      .price-text {
+        font-size: 14px !important;
+      }
+
+      .prod-img {
+        height: 100px !important;
+      }
+
+      .quantity-input {
+        max-width: 50px !important;
+      }
+
+      .decrement-btn,
+      .increment-btn {
+        width: 24px;
+        height: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  }
+
+  // ///////////////////////////
+
+  // /// CHECKOUT PAGE STYLES ///////
+
+  .checkout {
+    .billing_form-wrap {
+      padding: 20px 12px !important;
+    }
+    .right-col {
+      padding: 25px 24px 0px !important;
+    }
+
+    .cart_totals-list {
+      padding: 12px !important;
+    }
+
+    .list-item {
+      justify-content: space-between !important;
+
+      > span {
+        margin-left: 0px !important;
+      }
+    }
+
+    .payment_form-wrap {
+      padding: 12px 12px 30px !important;
+    }
+  }
+
+  // ////////////////////////////////
+
+  //// BLOG-DETAILS ////
+
+  .blog-details {
+    .cheff-img {
+      height: 320px !important;
+    }
+
+    .comment_card-3 {
+      padding-left: 10px !important;
+    }
+
+    .comment_card-4 {
+      padding-left: 20px !important;
+    }
+
+    .comment_card-5 {
+      padding-left: 30px !important;
+    }
+  }
+
+  // /////////////////////////////
+
+  // //// Mobile Menu //////////
+
+  .mobile-menu {
+    .shop-item {
+      .dropdown-menu {
+        min-width: unset !important;
+        max-width: fit-content !important;
+      }
+    }
+  }
+
+  // //////////////////////////
+}

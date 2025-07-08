@@ -1,0 +1,99 @@
+{
+  "blog_items": [
+    {
+      "id": "traveler-1",
+      "title": "blog_details.traveler_title",
+      "img": "recentimage_1.jpg",
+      "desc1": "blog_details.desc1",
+      "desc2": "blog_details.desc2"
+    },
+
+    {
+      "id": "creative-1",
+      "title": "blog_details.creative_title",
+      "img": "recentimage_2.jpg",
+      "desc1": "blog_details.desc3",
+      "desc2": "blog_details.desc4",
+      "desc3": "blog_details.desc5",
+      "desc4": "blog_details.desc6",
+      "desc5": "blog_details.desc7"
+    }
+  ],
+
+  "tag_btns": [
+    {
+      "id": "life-1",
+      "text": "blog_details.life"
+    },
+    {
+      "id": "sport-1",
+      "text": "blog_details.sport"
+    },
+    {
+      "id": "tech-1",
+      "text": "blog_details.tech"
+    },
+    {
+      "id": "travel-1",
+      "text": "blog_details.travel"
+    }
+  ],
+
+  "comments_title": "blog_details.comments_title",
+  "persons_comments": [
+    {
+      "id": "person-1",
+      "img": "person1.jpg",
+      "first_name": "blog_details.person1_first_name",
+      "last_name": "blog_details.person1_last_name",
+      "comment": "blog_details.person1_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    },
+    {
+      "id": "person-2",
+      "img": "person2.jpg",
+      "first_name": "blog_details.person2_first_name",
+      "last_name": "blog_details.person2_last_name",
+      "comment": "blog_details.person2_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    },
+    {
+      "id": "person-3",
+      "img": "person3.jpg",
+      "first_name": "blog_details.person3_first_name",
+      "last_name": "blog_details.person3_last_name",
+      "comment": "blog_details.person3_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    },
+    {
+      "id": "person-4",
+      "img": "person4.jpg",
+      "first_name": "blog_details.person4_first_name",
+      "last_name": "blog_details.person4_last_name",
+      "comment": "blog_details.person4_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    },
+    {
+      "id": "person-5",
+      "img": "person5.jpg",
+      "first_name": "blog_details.person5_first_name",
+      "last_name": "blog_details.person5_last_name",
+      "comment": "blog_details.person5_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    },
+    {
+      "id": "person-6",
+      "img": "person6.jpg",
+      "first_name": "blog_details.person6_first_name",
+      "last_name": "blog_details.person6_last_name",
+      "comment": "blog_details.person6_comment",
+      "date": "blog_details.comment_date",
+      "reply_btn_text": "blog_details.reply_btn"
+    }
+  ]
+}

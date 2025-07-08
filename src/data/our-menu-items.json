@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "coffeeImg": "coffee-1.jpg",
+    "className": "first-img"
+  },
+  {
+    "id": 1,
+    "coffeeImg": "coffee-2.jpg",
+    "className": "second-img"
+  },
+  {
+    "id": 2,
+    "coffeeImg": "coffee-3.jpg",
+    "className": "third-img"
+  },
+  {
+    "id": 3,
+    "coffeeImg": "coffee-4.jpg",
+    "className": "fourth-img"
+  }
+]

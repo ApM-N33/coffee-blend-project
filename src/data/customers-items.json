@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "desc": "customers.chef1.desc",
+    "first_name": "customers.chef1.first_name",
+    "last_name": "customers.chef1.last_name",
+    "img": "cheff-1.jpg",
+    "speciality": "customers.chef1.speciality"
+  },
+  {
+    "id": 1,
+    "desc": "customers.chef2.desc",
+    "first_name": "customers.chef2.first_name",
+    "last_name": "customers.chef2.last_name",
+    "img": "cheff-2.jpg",
+    "speciality": "customers.chef2.speciality"
+  },
+  {
+    "id": 2,
+    "desc": "customers.chef3.desc",
+    "first_name": "customers.chef3.first_name",
+    "last_name": "customers.chef3.last_name",
+    "img": "cheff-3.jpg",
+    "speciality": "customers.chef3.speciality"
+  },
+  {
+    "id": 3,
+    "desc": "customers.chef4.desc",
+    "first_name": "customers.chef4.first_name",
+    "last_name": "customers.chef4.last_name",
+    "img": "cheff-4.jpg",
+    "speciality": "customers.chef4.speciality"
+  },
+  {
+    "id": 4,
+    "desc": "customers.chef5.desc",
+    "first_name": "customers.chef5.first_name",
+    "last_name": "customers.chef5.last_name",
+    "img": "cheff-5.jpg",
+    "speciality": "customers.chef5.speciality"
+  }
+]

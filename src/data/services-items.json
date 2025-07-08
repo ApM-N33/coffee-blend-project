@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "services.item1-title",
+    "icon": "OrderList",
+    "desc": "services.item1-desc"
+  },
+  {
+    "id": 1,
+    "title": "services.item2-title",
+    "icon": "DeliveryCar",
+    "desc": "services.item2-desc"
+  },
+  {
+    "id": 2,
+    "title": "services.item3-title",
+    "icon": "CoffeeBeans",
+    "desc": "services.item3-desc"
+  }
+]

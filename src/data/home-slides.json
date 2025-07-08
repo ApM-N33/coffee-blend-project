@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "hero_bg": "bg_1.jpg",
+    "hero_title": "hero_section.hero_title",
+    "hero_subtitle": "hero_section.hero_slide1_subtitle",
+    "hero_desc": "hero_section.hero_desc",
+    "hero_btns": [
+      {
+        "id": 1,
+        "btn_text": "hero_section.order_btn_text"
+      },
+      {
+        "id": 2,
+        "btn_text": "hero_section.view_btn_text"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "hero_bg": "bg_2.jpg",
+    "hero_title": "hero_section.hero_title",
+    "hero_subtitle": "hero_section.hero_slide2_subtitle",
+    "hero_desc": "hero_section.hero_desc",
+    "hero_btns": [
+      {
+        "id": 4,
+        "btn_text": "hero_section.order_btn_text"
+      },
+      {
+        "id": 5,
+        "btn_text": "hero_section.view_btn_text"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "hero_bg": "bg_3.jpg",
+    "hero_title": "hero_section.hero_title",
+    "hero_subtitle": "hero_section.hero_slide3_subtitle",
+    "hero_desc": "hero_section.hero_desc",
+    "hero_btns": [
+      {
+        "id": 7,
+        "btn_text": "hero_section.order_btn_text"
+      },
+      {
+        "id": 8,
+        "btn_text": "hero_section.view_btn_text"
+      }
+    ]
+  }
+]

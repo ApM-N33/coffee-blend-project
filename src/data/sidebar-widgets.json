@@ -1,0 +1,104 @@
+{
+  "categories_title": "checkout.categories_title",
+  "categories_items": [
+    {
+      "id": "tour-1",
+      "category": "checkout.category1",
+      "total": 12
+    },
+    {
+      "id": "hotel-1",
+      "category": "checkout.category2",
+      "total": 22
+    },
+    {
+      "id": "coffee-1",
+      "category": "checkout.category3",
+      "total": 37
+    },
+    {
+      "id": "drinks-1",
+      "category": "checkout.category4",
+      "total": 42
+    },
+    {
+      "id": "foods-1",
+      "category": "checkout.category5",
+      "total": 14
+    },
+    {
+      "id": "travel-1",
+      "category": "checkout.category6",
+      "total": 140
+    }
+  ],
+
+  "recent_blog_title": "checkout.recent_blog_title",
+  "recent_blog_items": [
+    {
+      "id": "spagetti-pasta-1",
+      "img": "recentimage_1.jpg",
+      "desc": "checkout.recent_item_desc",
+      "date": "checkout.recent_item_date",
+      "admin": "checkout.recent_item_admin",
+      "comments": 19
+    },
+
+    {
+      "id": "spagetti-1",
+      "img": "recentimage_2.jpg",
+      "desc": "checkout.recent_item_desc",
+      "date": "checkout.recent_item_date",
+      "admin": "checkout.recent_item_admin",
+      "comments": 19
+    },
+
+    {
+      "id": "pizza-1",
+      "img": "recentimage_3.jpg",
+      "desc": "checkout.recent_item_desc",
+      "date": "checkout.recent_item_date",
+      "admin": "checkout.recent_item_admin",
+      "comments": 19
+    }
+  ],
+
+  "tag_cloud_title": "checkout.tag_cloud_title",
+  "tag_cloud_items": [
+    {
+      "id": "dish-1",
+      "text": "checkout.tag_item1"
+    },
+    {
+      "id": "menu-1",
+      "text": "checkout.tag_item2"
+    },
+    {
+      "id": "food-1",
+      "text": "checkout.tag_item3"
+    },
+    {
+      "id": "sweet-1",
+      "text": "checkout.tag_item4"
+    },
+    {
+      "id": "tasty-1",
+      "text": "checkout.tag_item5"
+    },
+    {
+      "id": "delicious-1",
+      "text": "checkout.tag_item6"
+    },
+    {
+      "id": "desserts-1",
+      "text": "checkout.tag_item7"
+    },
+    {
+      "id": "drinks-1",
+      "text": "checkout.tag_item8"
+    }
+  ],
+
+  "paragraph_title": "checkout.paragraph_title",
+  "paragraph_text": "checkout.paragraph_text"
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "id": 0,
+    "category_title": "menu_category.starter.title",
+    "category_items": [
+      {
+        "id": 1,
+        "img": "maindish-1.jpg",
+        "title": "menu_category.starter.item1_title",
+        "desc": "menu_category.starter.item_desc",
+        "price": 20
+      },
+      {
+        "id": 2,
+        "img": "maindish-2.jpg",
+        "title": "menu_category.starter.item2_title",
+        "desc": "menu_category.starter.item_desc",
+        "price": 29
+      },
+      {
+        "id": 3,
+        "img": "maindish-3.jpg",
+        "title": "menu_category.starter.item3_title",
+        "desc": "menu_category.starter.item_desc",
+        "price": 35
+      },
+      {
+        "id": 4,
+        "img": "maindish-4.jpg",
+        "title": "menu_category.starter.item4_title",
+        "desc": "menu_category.starter.item_desc",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "category_title": "menu_category.main_dish.title",
+    "category_items": [
+      {
+        "id": 5,
+        "img": "seadish-1.jpg",
+        "title": "menu_category.main_dish.item1_title",
+        "desc": "menu_category.main_dish.item_desc",
+        "price": 30
+      },
+      {
+        "id": 6,
+        "img": "seadish-2.jpg",
+        "title": "menu_category.main_dish.item2_title",
+        "desc": "menu_category.main_dish.item_desc",
+        "price": 40
+      },
+      {
+        "id": 7,
+        "img": "seadish-3.jpg",
+        "title": "menu_category.main_dish.item3_title",
+        "desc": "menu_category.main_dish.item_desc",
+        "price": 20
+      },
+      {
+        "id": 8,
+        "img": "seadish-4.jpg",
+        "title": "menu_category.main_dish.item4_title",
+        "desc": "menu_category.main_dish.item_desc",
+        "price": 24
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "category_title": "menu_category.desserts.title",
+    "category_items": [
+      {
+        "id": 9,
+        "img": "dessert-3.jpg",
+        "title": "menu_category.desserts.item1_title",
+        "desc": "menu_category.desserts.item_desc",
+        "price": 47
+      },
+      {
+        "id": 10,
+        "img": "dessert-4.jpg",
+        "title": "menu_category.desserts.item2_title",
+        "desc": "menu_category.desserts.item_desc",
+        "price": 50
+      },
+      {
+        "id": 11,
+        "img": "dessert-5.jpg",
+        "title": "menu_category.desserts.item3_title",
+        "desc": "menu_category.desserts.item_desc",
+        "price": 52
+      },
+      {
+        "id": 12,
+        "img": "dessert-6.jpg",
+        "title": "menu_category.desserts.item4_title",
+        "desc": "menu_category.desserts.item_desc",
+        "price": 41
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category_title": "menu_category.drinks.title",
+    "category_items": [
+      {
+        "id": 13,
+        "img": "drink-4.jpg",
+        "title": "menu_category.drinks.item1_title",
+        "desc": "menu_category.drinks.item_desc",
+        "price": 51
+      },
+      {
+        "id": 14,
+        "img": "drink-5.jpg",
+        "title": "menu_category.drinks.item2_title",
+        "desc": "menu_category.drinks.item_desc",
+        "price": 53
+      },
+      {
+        "id": 15,
+        "img": "drink-6.jpg",
+        "title": "menu_category.drinks.item3_title",
+        "desc": "menu_category.drinks.item_desc",
+        "price": 59
+      },
+      {
+        "id": 16,
+        "img": "drink-7.jpg",
+        "title": "menu_category.drinks.item4_title",
+        "desc": "menu_category.drinks.item_desc",
+        "price": 60
+      }
+    ]
+  }
+]

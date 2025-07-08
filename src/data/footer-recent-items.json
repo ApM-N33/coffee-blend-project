@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "img": "recentimage_1.jpg",
+    "title": "footer.recent_blog.item_title",
+    "date": "footer.recent_blog.item_date",
+    "admin": "footer.recent_blog.item_admin",
+    "comments": 19
+  },
+  {
+    "id": 1,
+    "img": "recentimage_2.jpg",
+    "title": "footer.recent_blog.item_title",
+    "date": "footer.recent_blog.item_date",
+    "admin": "footer.recent_blog.item_admin",
+    "comments": 19
+  }
+]

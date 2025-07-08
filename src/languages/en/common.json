@@ -1,0 +1,428 @@
+{
+  "header": {
+    "nav-link1": "home",
+    "nav-link2": "menu",
+    "nav-link3": "services",
+    "nav-link4": "blog",
+    "nav-link5": "about",
+    "nav-link6": "shop",
+    "nav-link7": "shop",
+    "nav-link8": "single product",
+    "nav-link9": "ckeckout",
+    "nav-link10": "contact",
+    "nav-link11": "cart",
+    "nav-link12": "blog-details"
+  },
+
+  "hero_section": {
+    "hero_title": "Welcome",
+    "hero_desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    "hero_slide1_subtitle": "The Best Coffee Testing Experience",
+    "hero_slide2_subtitle": "Amazing Taste & Beautiful Place",
+    "hero_slide3_subtitle": "Creamy Hot and Ready to Serve",
+    "order_btn_text": "Order Now",
+    "view_btn_text": "View Menu"
+  },
+
+  "hero_contact-section": {
+    "contact-title2": "198 West 21th Street",
+    "contact-title3": "Open Monday-Friday",
+    "contact-desc1": "A small river named Duden flows by their place and supplies.",
+    "contact-desc2": "203 Fake St. Mountain View, San Francisco, California, USA",
+    "contact-desc3": "8:00am - 9:00pm",
+    "book_table-title": "BOOK A TABLE",
+    "input_firstName": "First Name",
+    "input_lastName": "Last Name",
+    "input_Phone": "Phone",
+    "textarea": "Message",
+    "submit_btn": "Appointment"
+  },
+
+  "our-story": {
+    "title_label": "Discover",
+    "title": "Our Story",
+    "desc": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word 'and' and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their."
+  },
+
+  "services": {
+    "item1-title": "Easy to Order",
+    "item1-desc": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.",
+    "item2-title": "Fastest Delivery",
+    "item2-desc": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.",
+    "item3-title": "Quality Coffee",
+    "item3-desc": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+  },
+
+  "our-menu": {
+    "title_label": "Discover",
+    "title": "Our Menu",
+    "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+    "btn_text": "View Full Menu"
+  },
+
+  "counter-sector": {
+    "item1-text": "Coffee Branches",
+    "item2-text": "Number of Awards",
+    "item3-text": "Happy Customer",
+    "item4-text": "Staff"
+  },
+
+  "coffee-selers": {
+    "title_label": "Discover",
+    "title": "Best Coffee Sellers",
+    "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    "item1-title": "COFFEE CAPUCINO",
+    "item2-title": "COFFEE Espresso",
+    "item3-title": "COFFEE Latte",
+    "item4-title": "COFFEE Macchiato",
+    "item-desc": "A small river named Duden flows by their place and supplies",
+    "btn_text": "Add to Cart"
+  },
+
+  "our-products": {
+    "title_label": "Discover",
+    "title": "Our Products",
+    "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    "main_dish_btn-text": "Main Dish",
+    "drinks_btn-text": "Drinks",
+    "desserts_btn-text": "Desserts",
+    "coffee_btn-text": "Coffee",
+    "main_dish-items": {
+      "item1-title": "Grilled Beef",
+      "item2-title": "Grilled steak",
+      "item3-title": "Grilled pork",
+      "item4-title": "Chicken Curry",
+      "item5-title": "Fish Salad",
+      "item6-title": "Chiken Filet",
+      "btn_text": "Add to Cart",
+      "item-desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+    },
+    "drinks-items": {
+      "item1-title": "Lemonade Juice",
+      "item2-title": "Pineapple Juice",
+      "item3-title": "Soda Drinks",
+      "item4-title": "Strawberry Juice",
+      "item5-title": "Orange Juice",
+      "item6-title": "Mojito",
+      "btn_text": "Add to Cart",
+      "item-desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+    },
+    "desserts-items": {
+      "item1-title": "Hot Cake Honey",
+      "item2-title": "sweet pancakes",
+      "item3-title": "fruit cake",
+      "item4-title": "blackberry cake",
+      "item5-title": "Banana Glaze",
+      "item6-title": "Chocolate Pancakes",
+      "btn_text": "Add to Cart",
+      "item-desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+    }
+  },
+
+  "customers": {
+    "title_label": "Jestimony",
+    "title": "Customers Says",
+    "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    "chef1": {
+      "desc": "“Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small.”",
+      "first_name": "Louise",
+      "last_name": "Kelly",
+      "speciality": "Pastry Chef"
+    },
+    "chef2": {
+      "desc": "“Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.”",
+      "first_name": "Joe",
+      "last_name": "Shmoe",
+      "speciality": "Chef-technologist"
+    },
+    "chef3": {
+      "desc": "“Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name. ”",
+      "first_name": "Mike",
+      "last_name": "Johnson",
+      "speciality": "Sauce Chef"
+    },
+    "chef4": {
+      "desc": "“Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however.”",
+      "first_name": "Chris",
+      "last_name": "Heria",
+      "speciality": "Fish Chef"
+    },
+    "chef5": {
+      "desc": "“Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name. ”",
+      "first_name": "Alex",
+      "last_name": "Pereira",
+      "speciality": "Meat Chef"
+    }
+  },
+
+  "recent-blog": {
+    "title": "Recent from blog",
+    "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    "blogItem1": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Pasta",
+      "blog_title": "Pasta Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    },
+    "blogItem2": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Spagetti",
+      "blog_title": "Spagetti Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    },
+    "blogItem3": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Pizza",
+      "blog_title": "Pizza Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    },
+    "blogItem4": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Pizza",
+      "blog_title": "Fruits Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    },
+    "blogItem5": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Pizza",
+      "blog_title": "Pizza Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    },
+    "blogItem6": {
+      "date": "Sept 10, 2018 Admin",
+      "title": "The Delicious Pizza",
+      "blog_title": "Pizza Testing",
+      "blog_date": "Sept 28, 2018 Admin",
+      "desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    }
+  },
+
+  "booking": {
+    "title": "Book a Table"
+  },
+
+  "footer": {
+    "about_us": {
+      "title": "About Us",
+      "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    "recent_blog": {
+      "title": "Recent Blog",
+      "item_title": "Even the all-powerful Pointing has no control about",
+      "item_date": "Sept 15, 2018",
+      "item_admin": "Admin"
+    },
+    "services": {
+      "title": "services",
+      "cooked": "cooked",
+      "deliver": "deliver",
+      "quality_foods": "Quality Foods",
+      "mixed": "mixed"
+    },
+    "contact_info": {
+      "title": "Have a Questions?",
+      "location": "203 Fake St. Mountain View, San Francisco, California, USA"
+    },
+
+    "copyright": "Copyright ©2025 All rights reserved | This template is made with ❤️ by Colorib"
+  },
+
+  "menu_category": {
+    "starter": {
+      "title": "Starter",
+      "item1_title": "Grilled Beef",
+      "item2_title": "Grilled steak",
+      "item3_title": "Grilled pork",
+      "item4_title": "Chicken Curry",
+      "item_desc": "A small river named Duden flows by their place and supplies"
+    },
+
+    "main_dish": {
+      "title": "Main Dish",
+      "item1_title": "Shrimps",
+      "item2_title": "Fried mackerel",
+      "item3_title": "fish salad",
+      "item4_title": "Chiken Filet",
+      "item_desc": "A small river named Duden flows by their place and supplies"
+    },
+
+    "desserts": {
+      "title": "desserts",
+      "item1_title": "fruit cake",
+      "item2_title": "blackberry cake",
+      "item3_title": "Banana Glaze",
+      "item4_title": "Chocolate Pancakes",
+      "item_desc": "A small river named Duden flows by their place and supplies"
+    },
+
+    "drinks": {
+      "title": "drinks",
+      "item1_title": "Duchess juice",
+      "item2_title": "strawberry juice",
+      "item3_title": "mojito",
+      "item4_title": "orange juice",
+      "item_desc": "A small river named Duden flows by their place and supplies"
+    }
+  },
+
+  "about_us": {
+    "title": "About Us"
+  },
+
+  "shop": {
+    "title": "order online"
+  },
+
+  "cart-section": {
+    "cart-product": "product",
+    "cart-price": "price",
+    "cart-quantity": "quantity",
+    "cart-total": "total"
+  },
+
+  "cart-checklist": {
+    "title": "CART TOTALS",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "discount": "Discount",
+    "total": "TOTAL",
+    "btn-text": "Proceed to Checkout"
+  },
+
+  "single-product": {
+    "title": "Product Detail"
+  },
+
+  "product-details": {
+    "first_desc": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+    "second_desc": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their."
+  },
+
+  "single-products": {
+    "btn_text": "Add to Cart",
+    "oprion-text1": "Small",
+    "oprion-text2": "Medium",
+    "oprion-text3": "Large",
+    "oprion-text4": "Extra"
+  },
+
+  "notification-modal": {
+    "first_text": "Added to cart",
+    "second_text": "quantity updated"
+  },
+
+  "checkout": {
+    "billing_details": "Billing Details",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "state_country": "State/Country",
+    "france": "France",
+    "russia": "Russia",
+    "germany": "Germany",
+    "armenia": "Armenia",
+    "street_address": "Street Address",
+    "placeholder1": "House Number and street name",
+    "placeholder2": "Appartment, suite, unit etc: (optional)",
+    "town_city": "Town / City",
+    "post_code": "Postcode / ZIP *",
+    "phone": "Phone",
+    "email_address": "Email Address",
+    "create_an_account": "Create an Account?",
+    "ship_to_different": "Ship to different address",
+    "payment_method": "Payment Method",
+    "direct_bank_tranfer": " Direct Bank Tranfer",
+    "check_payment": "Check Payment",
+    "paypal": "Paypal",
+    "read_and_accept": "I have read and accept the terms and conditions",
+    "place_an_order": "Place an Order",
+    "search": "Search...",
+    "categories_title": "categories",
+    "category1": "Tour",
+    "category2": "Hotel",
+    "category3": "Coffee",
+    "category4": "Drinks",
+    "category5": "Foods",
+    "category6": "Travel",
+    "recent_blog_title": "Recent Blog",
+    "recent_item_desc": "Even the all-powerful Pointing has no control about the blind texts",
+    "recent_item_date": "July 12, 2018",
+    "recent_item_admin": "Admin",
+    "tag_cloud_title": "Tag Cloud",
+    "tag_item1": "DISH",
+    "tag_item2": "MENU",
+    "tag_item3": "FOOD",
+    "tag_item4": "SWEET",
+    "tag_item5": "TASTY",
+    "tag_item6": "DELICIOUS",
+    "tag_item7": "DESSERTS",
+    "tag_item8": "DRINKS",
+    "paragraph_title": "Paragraph",
+    "paragraph_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!"
+  },
+
+  "blog_details": {
+    "traveler_title": "10 Tips For The Traveler",
+    "desc1": "Traveling opens up a new perspective on the world. Every country has its own unique culture, flavors, and people. It’s important to be prepared not only for pleasant moments but also for unexpected situations. In this article, we’ll share helpful tips that will make your journey easier and more comfortable. No matter the destination — whether it’s a bustling metropolis or a quiet village — these tips will help you make the most of every moment.",
+    "desc2": "It's important to remember that perfect conditions while traveling are rare. Sometimes you'll face difficulties — flight delays, booking mix-ups, or language barriers. But these moments are what turn a trip into a real adventure. They teach us flexibility, patience, and resourcefulness. Don’t be afraid to ask questions, connect with new people, and simply enjoy every little detail along the way. Even unexpected turns can leave the brightest memories.",
+    "creative_title": "#2. Creative WordPress Themes",
+    "desc3": "Choosing a theme for your website is more than just design. It’s the first impression users get when they land on your site. A good WordPress theme sets the mood, reflects the style, and builds trust with your audience. The right theme can completely transform how your project is perceived.",
+    "desc4": "Today, developers look not only for beautiful templates but also for functional and flexible solutions. Whether it’s an online store, a blog, a portfolio, or a corporate site — a strong theme should be lightweight, fast, and user-friendly.",
+    "desc5": "A modern theme must support current standards: responsiveness, SEO optimization, and cross-browser compatibility. It should also work well with popular plugins like Elementor and WooCommerce.",
+    "desc6": "Remember, even the most visually stunning theme loses value if it’s hard to work with. A good theme offers a simple settings panel, clear structure, and easy customization options.",
+    "desc7": "When choosing a theme, think beyond the visuals. The best themes give you creative freedom and help bring your ideas to life without limitations.",
+    "life": "LIFE",
+    "sport": "SPORT",
+    "tech": "TECH",
+    "travel": "TRAVEL",
+    "cheff_first_name": "Alex",
+    "cheff_last_name": "Pereira",
+    "cheff_desc": "Alex Pereira is a world-class chef known for his bold flavors and innovative techniques. His passion for culinary arts began early, and through dedication and creativity, he now crafts unforgettable dining experiences that blend tradition with modern taste.",
+    "comments_title": "Comments",
+    "person1_first_name": "Liam",
+    "person1_last_name": "Carter",
+    "person1_comment": "This article really got me thinking. The way you structured the ideas is clean and informative. I’ll definitely revisit this when planning my next trip!",
+    "person2_first_name": "Daniel",
+    "person2_last_name": "Kim",
+    "person2_comment": "Very insightful content! I love how you broke everything down. Traveling can be chaotic, but this kind of advice makes it feel much more manageable.",
+    "person3_first_name": "Emily",
+    "person3_last_name": "Johnson",
+    "person3_comment": "Loved this post! The little tips you gave were practical and easy to follow. Looking forward to more travel guides like this in the future!",
+    "person4_first_name": "Mateo",
+    "person4_last_name": "Rossi",
+    "person4_comment": "Thanks for sharing this. It’s not only helpful but also really well written. Makes me want to book a flight right now and explore something new.",
+    "person5_first_name": "Sophia",
+    "person5_last_name": "Miller",
+    "person5_comment": "Such a refreshing read. I’ve been searching for travel blogs that offer more than just photos, and this definitely delivered. Subscribed right away!",
+    "person6_first_name": "Lucas",
+    "person6_last_name": "Bannet",
+    "person6_comment": "I wasn't expecting to enjoy reading this as much as I did. There's something about your writing style that makes everything feel more personal and real.",
+    "comment_date": "June 27, 2018 at 2:21pm",
+    "reply_btn": "REPLY",
+    "leave_comment": "Leave a comment",
+    "name": "Name*",
+    "email": "Email*",
+    "website": "Website",
+    "message": "Message",
+    "post_btn": "Post Comment"
+  },
+
+  "contact_us": {
+    "title": "CONTACT US",
+    "contact_info": "Contact Information",
+    "address": "Address:",
+    "street_address": "198 West 21th Street, Suite 721 New York NY 10016",
+    "phone": "Phone:",
+    "email": "Email:",
+    "website": "Website:",
+    "inp_name": "Your Name",
+    "inp_email": "Your Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send_message": "Send Message"
+  }
+}

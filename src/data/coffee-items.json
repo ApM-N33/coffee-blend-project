@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "category_type": "Coffee",
+    "coffeeImg": "coffee-1.jpg",
+    "title": "coffee-selers.item1-title",
+    "desc": "coffee-selers.item-desc",
+    "price": 5.85,
+    "btn_text": "coffee-selers.btn_text"
+  },
+  {
+    "id": 1,
+    "category_type": "Coffee",
+    "coffeeImg": "coffee-2.jpg",
+    "title": "coffee-selers.item2-title",
+    "desc": "coffee-selers.item-desc",
+    "price": 7.25,
+    "btn_text": "coffee-selers.btn_text"
+  },
+  {
+    "id": 2,
+    "category_type": "Coffee",
+    "coffeeImg": "coffee-3.jpg",
+    "title": "coffee-selers.item3-title",
+    "desc": "coffee-selers.item-desc",
+    "price": 6.45,
+    "btn_text": "coffee-selers.btn_text"
+  },
+  {
+    "id": 3,
+    "category_type": "Coffee",
+    "coffeeImg": "coffee-4.jpg",
+    "title": "coffee-selers.item4-title",
+    "desc": "coffee-selers.item-desc",
+    "price": 8.37,
+    "btn_text": "coffee-selers.btn_text"
+  }
+]

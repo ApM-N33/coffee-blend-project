@@ -1,0 +1,136 @@
+:root {
+  --white-1st: #fff;
+  --white-2nd: #ffffff99;
+  --white-3rd: #ffffffb3;
+  --white-rgba: rgba(255, 255, 255, 0.5);
+  --black-1st: #000000;
+  --black-2nd: #151111;
+  --black-3rd: #0d0d0d;
+  --black-rgba: rgba(0, 0, 0, 0.5);
+  --brown-1st: #c49b63;
+  --brown-2nd: #674c27;
+  --yellow-1st: #f8b500;
+  --gray-1st: #808080;
+  --gray-2nd: #bfbfbf;
+  --gray-rgba: rgba(255, 255, 255, 0.1);
+}
+
+/////////////////////////////////////
+
+// //// GALERRY MODALS /////////
+
+.gellery-modal {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9000;
+  padding: 80px 50px 80px;
+  background-color: rgba($color: #000000, $alpha: 0.7);
+  display: none;
+  opacity: 0;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+
+  .mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  &.active {
+    display: flex;
+    opacity: 1;
+    animation: modalFadeIn 0.3s ease forwards;
+  }
+
+  &.hide {
+    display: none;
+    opacity: 0;
+    animation: modalFadeOut 0.3s ease forwards;
+  }
+
+  .hide_modal-btn {
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background-color: transparent;
+    color: var(--white-1st);
+    border: unset;
+  }
+
+  .prev-btn,
+  .next-btn {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px solid var(--white-2nd);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 900;
+    background-color: var(--yellow-1st);
+    color: var(--black-2nd);
+  }
+
+  .prev-btn {
+    top: 50%;
+    left: 50px;
+  }
+
+  .next-btn {
+    top: 50%;
+    right: 50px;
+  }
+
+  .modal-item {
+    max-width: 700px;
+    width: 100%;
+    height: 90vh;
+    display: none;
+    transform: translateY(-100%);
+  }
+
+  .modal-item.active {
+    display: block;
+    transform: translateY(0);
+    animation: slideFadeIn 0.4s ease-in forwards;
+  }
+  .modal-item.hide {
+    display: none;
+    transform: translateY(-100%);
+    animation: slideFadeOut 0.4s ease forwards;
+  }
+}
+
+// /////////////////////////////////////////
+
+// /// CART NOTIFICATON MODAL ////////////
+
+.notification-modal {
+  position: fixed;
+  top: 70px;
+  right: 50px;
+  width: 300px;
+  padding: 20px;
+  background-color: var(--brown-1st);
+  border: 2px solid var(--white-1st);
+  border-radius: 50px;
+  color: var(--white-1st);
+  font-size: 20px;
+  transform: translateY(-500%);
+  transition: transform 0.2s ease;
+}
+
+.notification-modal.active {
+  transform: translateY(10px);
+}
+
+// //////////////////////////////

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "category_type": "Main Dish",
+    "img": "maindish-1.jpg",
+    "title": "our-products.main_dish-items.item1-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 20,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 1,
+    "category_type": "Main Dish",
+    "img": "maindish-2.jpg",
+    "title": "our-products.main_dish-items.item2-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 35,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 2,
+    "category_type": "Main Dish",
+    "img": "maindish-3.jpg",
+    "title": "our-products.main_dish-items.item3-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 40,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 3,
+    "category_type": "Main Dish",
+    "img": "maindish-4.jpg",
+    "title": "our-products.main_dish-items.item4-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 42,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 4,
+    "category_type": "Main Dish",
+    "img": "seadish-3.jpg",
+    "title": "our-products.main_dish-items.item5-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 47,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 5,
+    "category_type": "Main Dish",
+    "img": "seadish-4.jpg",
+    "title": "our-products.main_dish-items.item6-title",
+    "desc": "our-products.main_dish-items.item-desc",
+    "price": 44,
+    "isActive": false,
+    "btn_text": "our-products.main_dish-items.btn_text"
+  },
+  {
+    "id": 6,
+    "category_type": "Drinks",
+    "img": "drink-1.jpg",
+    "title": "our-products.drinks-items.item1-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 38,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 7,
+    "category_type": "Drinks",
+    "img": "drink-2.jpg",
+    "title": "our-products.drinks-items.item2-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 42,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 8,
+    "category_type": "Drinks",
+    "img": "drink-3.jpg",
+    "title": "our-products.drinks-items.item3-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 53,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 9,
+    "category_type": "Drinks",
+    "img": "drink-4.jpg",
+    "title": "our-products.drinks-items.item4-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 58,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 10,
+    "category_type": "Drinks",
+    "img": "drink-5.jpg",
+    "title": "our-products.drinks-items.item5-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 60,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 11,
+    "category_type": "Drinks",
+    "img": "drink-6.jpg",
+    "title": "our-products.drinks-items.item6-title",
+    "desc": "our-products.drinks-items.item-desc",
+    "price": 63,
+    "isActive": false,
+    "btn_text": "our-products.drinks-items.btn_text"
+  },
+  {
+    "id": 12,
+    "category_type": "Desserts",
+    "img": "dessert-1.jpg",
+    "title": "our-products.desserts-items.item1-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 62,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  },
+  {
+    "id": 13,
+    "category_type": "Desserts",
+    "img": "dessert-2.jpg",
+    "title": "our-products.desserts-items.item2-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 67,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  },
+  {
+    "id": 14,
+    "category_type": "Desserts",
+    "img": "dessert-3.jpg",
+    "title": "our-products.desserts-items.item3-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 70,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  },
+  {
+    "id": 15,
+    "category_type": "Desserts",
+    "img": "dessert-4.jpg",
+    "title": "our-products.desserts-items.item4-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 72,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  },
+  {
+    "id": 16,
+    "category_type": "Desserts",
+    "img": "dessert-5.jpg",
+    "title": "our-products.desserts-items.item5-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 64,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  },
+  {
+    "id": 17,
+    "category_type": "Desserts",
+    "img": "dessert-6.jpg",
+    "title": "our-products.desserts-items.item6-title",
+    "desc": "our-products.desserts-items.item-desc",
+    "price": 61,
+    "isActive": false,
+    "btn_text": "our-products.desserts-items.btn_text"
+  }
+]

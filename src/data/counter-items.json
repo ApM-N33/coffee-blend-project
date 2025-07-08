@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "totalCount": 100,
+    "text": "counter-sector.item1-text"
+  },
+  {
+    "id": 1,
+    "totalCount": 85,
+    "text": "counter-sector.item2-text"
+  },
+  {
+    "id": 2,
+    "totalCount": 10567,
+    "text": "counter-sector.item3-text"
+  },
+  {
+    "id": 3,
+    "totalCount": 900,
+    "text": "counter-sector.item4-text"
+  }
+]

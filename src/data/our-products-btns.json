@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "category_type": "Coffee",
+    "text": "our-products.coffee_btn-text",
+    "isActive": false
+  },
+  {
+    "id": 1,
+    "category_type": "Main Dish",
+    "text": "our-products.main_dish_btn-text",
+    "isActive": false
+  },
+  {
+    "id": 2,
+    "category_type": "Drinks",
+    "text": "our-products.drinks_btn-text",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "category_type": "Desserts",
+    "text": "our-products.desserts_btn-text",
+    "isActive": false
+  }
+]
