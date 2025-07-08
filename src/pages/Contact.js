@@ -1,6 +1,6 @@
 import React from "react"
 import ContactHeroSection from "../components/Main/ContactHeroSection/ContactHeroSection"
-import ContactUsSection from "../components/ContactUsSection/ContactUsSection"
+import ContactUsSection from "../components/Main/ContactUsSection/ContactUsSection"
 
 function Contact() {
   return (
