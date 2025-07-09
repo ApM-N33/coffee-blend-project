@@ -633,6 +633,28 @@
       }
     }
   }
+}
 
-  // //////////////////////////
+@media (max-width: 384px) {
+  .mobile-menu {
+    .nav-item .nav-link {
+      padding: 10px 5px !important;
+      word-wrap: break-word !important;
+      overflow-wrap: break-word !important;
+      word-break: break-word !important;
+      font-size: 11px;
+    }
+
+    .nav-item.menu-item .nav-link,
+    .nav-item.about-item .nav-link,
+    .nav-item.lang-item .nav-link {
+      text-align: center;
+    }
+
+    .nav-item.services-item .nav-link,
+    .nav-item.blog-item .nav-link,
+    .nav-item.contact-item .nav-link {
+      text-align: end;
+    }
+  }
 }
