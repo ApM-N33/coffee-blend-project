@@ -78,6 +78,7 @@ function App() {
         isModalClicked={isModalClicked}
       />
       <NotificationModal />
+      
     </>
   )
 }
