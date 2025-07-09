@@ -17,7 +17,6 @@ import GalleryModals from "./components/Modals/GalleryModals"
 import useGalleryModal from "./hooks/useGalleryModal"
 import NotificationModal from "./components/Modals/NotificationModal"
 import { useEffect } from "react"
-import ScrollTopBtn from "./components/ScrollTopBtn/ScrollTopBtn"
 
 function App() {
   const {
@@ -79,7 +78,6 @@ function App() {
         isModalClicked={isModalClicked}
       />
       <NotificationModal />
-      <ScrollTopBtn />
     </>
   )
 }

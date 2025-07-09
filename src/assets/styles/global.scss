@@ -23,6 +23,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  user-select: none;
 }
 
 #root {
@@ -40,6 +41,7 @@ input,
 textarea,
 select {
   border-radius: unset;
+  user-select: text;
 }
 
 .card {
@@ -135,26 +137,3 @@ select {
   }
 }
 
-.to_top-btn {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  right: 30px;
-  bottom: 20px;
-  z-index: 9000;
-  opacity: 0.8;
-  border-radius: 50px;
-  background-color: var(--brown-2nd);
-  color: var(--white-1st);
-  border: 3px solid var(--white-1st);
-  transition: transform 0.4s ease;
-  transform: translateY(500%);
-
-  .arrow-up {
-    font-size: 55px;
-  }
-
-  &.active {
-    transform: translateY(0);
-  }
-}
